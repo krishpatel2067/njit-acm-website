@@ -1,6 +1,9 @@
 > [!IMPORTANT]
 > This is a fork of the [NJIT ACM Website repo](https://github.com/njitacm/njit-acm-website) as it was in Jan 2026, right after I served as Webmaster in 2025.
 
+> [!NOTE]
+> This website was built up over many years and many Webmasters, so not all work is mine! Look for the commits made by my account.
+
 # Vue 3 + Vite
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
